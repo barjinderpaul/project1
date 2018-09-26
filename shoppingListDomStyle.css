@@ -1,0 +1,7 @@
+.line{
+    text-decoration: line-through;
+}
+.card{
+    box-shadow: 2px 2px 0.5px 0.5px rgba(0,0,0,0.5);
+    background-color: #FFF2AA;
+}
